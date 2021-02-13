@@ -342,3 +342,70 @@ body {
 	min-height: 267px;
 	background: url(../img/subsection6__content-img8.jpg) 50% 50%/cover no-repeat;
 }
+.section__subsection7-discover-the-shop {
+	width: 100%;
+	height: 100%;
+	min-height: 200px;
+	background: #282f35;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.section__subsection7-link {
+	font-size: 14px;
+	font-weight: bold;
+	color: #fff;
+	border: 1px solid #94979a;
+	padding: 10px;
+}
+.section__subsection7-link:hover {
+	color: #94979a;
+	border-color: #cecece;
+}
+.section__subsection7-your-email {
+	width: 100%;
+	height: 100%;
+	min-height: 470px;
+	background: #fff;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+.section__subsection7-subtitle {
+	margin: 35px 0;
+	font-size: 24px;
+	color: #848789;
+}
+.section__subsection7-container-input {
+	display: flex;
+	flex-flow: row nowrap;
+}
+.section__subsection7-email {
+	width: 100%;
+	height: 100%;
+	min-width: 350px;
+	min-height: 60px;
+	border: 1px solid #d3d7d9;
+	color: #929292;
+	font-size: 20px;
+	font-style: italic;
+	padding: 10px;
+}
+.section__subsection7-email:focus {
+	box-shadow: 1px 2px 15px;
+}
+.section__subsection7-btn {
+	width: 100%;
+	height: 100%;
+	min-width: 125px;
+	min-height: 60px;
+	background: #64c29e;
+	color: #fff;
+	font-size: 20px;
+	font-weight: 300;
+	margin: 0 0 0 10px;
+}
+.section__subsection7-btn:hover {
+	background: #54a284;
+}
